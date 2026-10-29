@@ -1,5 +1,5 @@
 # clean-code
-# Clean Code, Code Smells & Git Workflows
+# Clean Code, Code Smells 
 
 این پروژه جهت ارائه کلاسی درس توسعه نرم‌افزار آماده شده است.
 
